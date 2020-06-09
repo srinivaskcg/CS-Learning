@@ -17,7 +17,7 @@ https://instagram-engineering.com/trending-on-instagram-b749450e6d93
 
 ## Scaling
 
-##Metrics/Telemetry
+## Metrics/Telemetry
 https://medium.com/@djsmith42/how-to-metric-edafaf959fc7
 https://netflixtechblog.com/introducing-atlas-netflixs-primary-telemetry-platform-bd31f4d8ed9a
 
