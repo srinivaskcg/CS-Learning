@@ -1,9 +1,20 @@
 # CS-Learning
 
 ## Data Everything (Privacy, Security, Governance, Catalogs, Intelligence..)
+
+###### Subject Inventory(Source of truth): 
 * https://medium.com/bigid-on-id-privacy/building-a-single-source-of-data-truth-across-privacy-security-and-governance-bigid-a7dce8dc3360
+
+###### Privacy Acts (GDPR/CCPA):
+* Entity Matching: 
+  * https://users.umiacs.umd.edu/~getoor/Tutorials/ER_VLDB2012.pdf
+  * http://pages.cs.wisc.edu/~anhai/papers/magellan-vldb16.pdf
+  * https://www.microsoft.com/en-us/research/uploads/prod/2019/04/Auto-EM.pdf
+  
+* Right to Delete: https://medium.com/bigid-on-id-privacy/how-to-avoid-the-nightmare-of-data-deletion-rights-c796b991afc8
+
+###### Misc:
 * https://medium.com/bigid-on-id-privacy/two-heads-are-better-than-one-when-data-discovery-meets-data-catalogs-bigid-8fc114aa4084
-* https://medium.com/bigid-on-id-privacy/how-to-avoid-the-nightmare-of-data-deletion-rights-c796b991afc8
 
 ## Basic CS
 * https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4
