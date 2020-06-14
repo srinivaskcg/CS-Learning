@@ -1,5 +1,9 @@
 # CS-Learning
 
+## Learn
+
+* https://levelup.gitconnected.com/99-of-successful-software-engineers-practice-these-10-habits-skills-52b18a2a7bdf
+
 ## Basic CS
 
 * https://medium.com/engineering-brainly/locality-sensitive-hashing-explained-304eb39291e4
