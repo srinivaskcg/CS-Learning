@@ -16,6 +16,7 @@
 ## Architecture/Design
 
 * https://instagram-engineering.com/trending-on-instagram-b749450e6d93
+* https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/44877.pdf
 
 ## Scaling
 
